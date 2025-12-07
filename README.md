@@ -1,5 +1,5 @@
 # Serverless-RAG-Blog
-
+Try here : http://3.25.153.245:8501/
 ![Serverless RAG Blog Factory](./Serverless_RAG_Blog_Factory_with_AWS_Service_Icons.png)
 
 ## ✨ Project Highlights
